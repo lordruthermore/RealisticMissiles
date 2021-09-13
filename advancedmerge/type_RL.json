@@ -1,0 +1,18 @@
+{
+	"TargetIDs": [
+		"Weapon_RL_RL10_0-STOCK",
+		"Weapon_RL_RL15_0-STOCK",
+		"Weapon_RL_RL20_0-STOCK"
+	],
+	"Instructions": [
+		{
+		"JSONPath": "$",
+		"Action": "ObjectMerge",
+		"Value": {
+			"CACShortRangeAccuracyMod": 2,
+			"CACMediumRangeAccuracyMod": 3,
+			"CACLongRangeAccuracyMod": 4,
+			}
+		}
+	]
+}
